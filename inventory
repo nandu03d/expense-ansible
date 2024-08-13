@@ -1,0 +1,8 @@
+[db]
+db.expdev-1.online
+
+[backend]
+backend.expdev-1.online
+
+[frontend]
+expdev-1.online
